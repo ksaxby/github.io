@@ -63,7 +63,7 @@ author:
 
 
 ## Work In Progress
-<u>Social capital and health </u> <br/>
+Social capital and health<br/>
 <small> Solo-authored project. <br/> 
 <br/>  
   
