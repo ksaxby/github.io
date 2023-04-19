@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Giovanni van Empel"
+title: "About me"
 excerpt: ""
 author_profile: true
 redirect_from: 
