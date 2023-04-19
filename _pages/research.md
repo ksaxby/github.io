@@ -7,7 +7,7 @@ author:
 <meta name="description" content="Overview of Giovanni van Empel's research.">
 
 ## Working Papers  
-<u>Provider responses under competing health technologies</u> <br/>
+<u>Provider responses to market entry under competing health technologies</u> <br/>
 <small> with Daniel Avdic, Nils Gutacker, and Johan Vikström.<br/>    
 *Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021. </small> 
 <div style="margin-left: 1em;">
