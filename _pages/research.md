@@ -9,7 +9,7 @@ author:
 ## Working Papers  
 <u>Provider responses to market entry under competing health technologies</u> <br/>
 <small> with Daniel Avdic, Nils Gutacker, and Johan Vikström.<br/> <br/>   
-*Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021. <br/> </small> 
+*Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021. <br/>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -23,7 +23,7 @@ author:
 <u>Radiating influence? Spillover effects among physicians</u> <br/> 
 <small> with Daniel Avdic, Umair Khalil, and Johannes S. Kunz. <br/> <br/> 
 *Presentations:* ASHEcon 2023*, UK HESG 2023*, RES PhD Conference 2023*, Applied Young Economist Webinar, Econometrics Society of Australasian Meeting (Sydney), Labour Econometrics Workshop (Sydney), EuHEA PhD Conference (Bologna), European Workshop on Econometrics and Health Economics (Madrid). <br/> </small> 
-**Accepted, not presented </small>* <br/> </small> 
+**Accepted, not presented* <br/>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -37,7 +37,7 @@ author:
 
 [Addressing Vaccine Hesitancy using Local Ambassadors: A Randomized Controlled Trial in Indonesia](https://docs.iza.org/dp15899.pdf)<br/>
 <small> with Armand Sim, Asad Islam, Jahen Rezki, Gita Kusnadi, Michael Vlassopoulos, and Yves Zenou. <br/> <br/>   
-*IZA Discussion Paper 15899 - Under review*  <br/> </small> 
+*IZA Discussion Paper 15899 - Under review*  <br/>
 *Presentations:* CINCH-dggo Academy of Health Science (Essen). <br/> </small> 
 <div style="margin-left: 1em;">
 <details>
