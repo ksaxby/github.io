@@ -20,9 +20,9 @@ author:
 </div> 
 <br/>
 
-<u>Radiating knowledge? Spillover effects among physicians</u> <br/> 
-<small> with Daniel Avdic, Umair Khalil, and Johannes Kunz. <br/> 
-*Presentations:* ASHEcon 2023 (scheduled), UK HESG 2023 (scheduled).  </small> 
+<u>Radiating influence? Spillover effects among physicians</u> <br/> 
+<small> with Daniel Avdic, Umair Khalil, and Johannes S. Kunz. <br/> 
+*Presentations:* ASHEcon 2023*, UK HESG 2023*, RES PhD Conference 2023*, Applied Young Economist Webinar, Econometrics Society of Australasian Meeting (Sydney), Labour Econometrics Workshop (Sydney), EuHEA PhD Conference (Bologna), European Workshop on Econometrics and Health Economics (Madrid).  </small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -37,6 +37,7 @@ author:
 [Addressing Vaccine Hesitancy using Local Ambassadors: A Randomized Controlled Trial in Indonesia](https://docs.iza.org/dp15899.pdf)<br/>
 <small> with Armand Sim, Asad Islam, Jahen Rezki, Gita Kusnadi, Michael Vlassopoulos, and Yves Zenou.<br/>   
 *IZA Discussion Paper 15899 - Under review* </small>
+*Presentations:* CINCH-dggo Academy of Health Science (Essen).  </small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
