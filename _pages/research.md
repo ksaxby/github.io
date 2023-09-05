@@ -9,7 +9,7 @@ author:
 ## Working Papers  
 <u>Provider responses to market entry under competing health technologies</u> <br/>
 <small> with Daniel Avdic, Nils Gutacker, and Johan Vikström.<br/>    
-*Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021. </small> 
+*Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021. <br/> </small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -21,7 +21,7 @@ author:
 <br/>
 
 <u>Radiating influence? Spillover effects among physicians</u> <br/> 
-<small> with Daniel Avdic, Umair Khalil, and Johannes S. Kunz. <br/> 
+<small> with Daniel Avdic, Umair Khalil, and Johannes S. Kunz. <br/> <br/> 
 *Presentations:* ASHEcon 2023*, UK HESG 2023*, RES PhD Conference 2023*, Applied Young Economist Webinar, Econometrics Society of Australasian Meeting (Sydney), Labour Econometrics Workshop (Sydney), EuHEA PhD Conference (Bologna), European Workshop on Econometrics and Health Economics (Madrid). <br/> </small> 
 *Accepted, not presented </small> <br/> 
 <div style="margin-left: 1em;">
