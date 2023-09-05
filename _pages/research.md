@@ -8,7 +8,7 @@ author:
 
 ## Working Papers  
 <u>Provider responses to market entry under competing health technologies</u> <br/>
-<small> with Daniel Avdic, Nils Gutacker, and Johan Vikström.<br/>    
+<small> with Daniel Avdic, Nils Gutacker, and Johan Vikström.<br/> <br/>   
 *Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021. <br/> </small> 
 <div style="margin-left: 1em;">
 <details>
@@ -36,7 +36,7 @@ author:
 
 
 [Addressing Vaccine Hesitancy using Local Ambassadors: A Randomized Controlled Trial in Indonesia](https://docs.iza.org/dp15899.pdf)<br/>
-<small> with Armand Sim, Asad Islam, Jahen Rezki, Gita Kusnadi, Michael Vlassopoulos, and Yves Zenou. <br/>   
+<small> with Armand Sim, Asad Islam, Jahen Rezki, Gita Kusnadi, Michael Vlassopoulos, and Yves Zenou. <br/> <br/>   
 *IZA Discussion Paper 15899 - Under review* </small> <br/> 
 *Presentations:* CINCH-dggo Academy of Health Science (Essen). <br/> </small> 
 <div style="margin-left: 1em;">
