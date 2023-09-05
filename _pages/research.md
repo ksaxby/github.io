@@ -53,7 +53,7 @@ author:
 
 
 ## Work In Progress
-Spillover effects of community-block grant<br/>
+Spillover effects of community-block grant : Evidence from Indonesia<br/>
 <small> Solo-authored project. <br/> 
 <br/>  
   
@@ -61,7 +61,7 @@ Spillover effects of community-block grant<br/>
 ## Publications
 [Does quality affect choice of family physician? Evidence from patients changing general practice without changing address](https://www.sciencedirect.com/science/article/pii/S0264999323002079) <br/>
 <small> with Hugh Gravelle and Rita Santos.<br/> 
-*Economic Modelling* 2023,  </small>
+*Economic Modelling* 2023  </small>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
