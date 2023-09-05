@@ -37,7 +37,7 @@ author:
 
 [Addressing Vaccine Hesitancy using Local Ambassadors: A Randomized Controlled Trial in Indonesia](https://docs.iza.org/dp15899.pdf)<br/>
 <small> with Armand Sim, Asad Islam, Jahen Rezki, Gita Kusnadi, Michael Vlassopoulos, and Yves Zenou. <br/> <br/>   
-<small> *IZA Discussion Paper 15899 - Under review* </small> <br/> 
+*IZA Discussion Paper 15899 - Under review </small>*  <br/> 
 *Presentations:* CINCH-dggo Academy of Health Science (Essen). <br/> </small> 
 <div style="margin-left: 1em;">
 <details>
