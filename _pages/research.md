@@ -36,7 +36,7 @@ author:
 
 [Addressing Vaccine Hesitancy using Local Ambassadors: A Randomized Controlled Trial in Indonesia](https://docs.iza.org/dp15899.pdf)<br/>
 <small> with Armand Sim, Asad Islam, Jahen Rezki, Gita Kusnadi, Michael Vlassopoulos, and Yves Zenou.<br/>   
-*IZA Discussion Paper 15899 - Under review* </small>
+*IZA Discussion Paper 15899 - Under review* </small> <br/> 
 *Presentations:* CINCH-dggo Academy of Health Science (Essen).  </small> 
 <div style="margin-left: 1em;">
 <details>
@@ -48,9 +48,20 @@ author:
 </div> 
 <br/>
 
-<u>Does quality affect choice of family physician? Evidence from patients changing general practice without changing address.</u> <br/>
+
+
+
+
+## Work In Progress
+Spillover effects of community-block grant<br/>
+<small> Solo-authored project. <br/> 
+<br/>  
+  
+ 
+## Publications
+[Does quality affect choice of family physician? Evidence from patients changing general practice without changing address](https://www.sciencedirect.com/science/article/pii/S0264999323002079) <br/>
 <small> with Hugh Gravelle and Rita Santos.<br/> 
-*R&R at Economic Modelling* </small>
+*Economic Modelling* 2023,  </small>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -61,15 +72,6 @@ author:
 </div> 
 <br/>
 
-
-
-## Work In Progress
-Social capital and health<br/>
-<small> Solo-authored project. <br/> 
-<br/>  
-  
- 
-## Commentary
 [Undertesting of COVID-19 in Indonesia: what has gone wrong?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7537566/) <br/>
 <small>*Journal of Global Health* 2020, <u>G van Empel</u>, J Mulyanto, BS Wiratama. <br/>
 <div style="margin-left: 1em;">
