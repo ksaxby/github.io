@@ -9,7 +9,7 @@ author:
 ## Working Papers  
 <u>Provider responses to market entry under competing health technologies</u> <br/>
 <small> with Daniel Avdic, Nils Gutacker, and Johan Vikström.<br/> <br/>   
-*Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021. <br/>
+*Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021, 4th Asian Workshop on Econometrics and Health Economics (scheduled). <br/>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
