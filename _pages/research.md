@@ -20,8 +20,8 @@ author:
 </div> 
 <br/>
 
-<u>Radiating influence? Spillover effects among physicians</u> <br/> 
-<small> with Daniel Avdic, Umair Khalil, and Johannes S. Kunz. <br/> <br/> 
+<u>Radiating influence? Spillover effects among physicians [JOB MARKET PAPER](https://www.dropbox.com/scl/fi/vgnjgl85920ni8mpat9c7/JMP_Giovanni-van-Empel.pdf?rlkey=k3xcx1gd2pr4ec22ngt45g4kf&dl=0))</u> <br/> 
+<small> with Daniel Avdic, Umair Khalil, Johannes S. Kunz, Bo Lagerqvist, and Johan Vikström. <br/> <br/> 
 *Presentations:* ASHEcon 2023 (accepted), UK HESG 2023 (accepted), RES PhD Conference 2023 (accepted), Applied Young Economist Webinar, Econometrics Society of Australasian Meeting (Sydney), Labour Econometrics Workshop (Sydney), EuHEA PhD Conference (Bologna), European Workshop on Econometrics and Health Economics (Madrid). <br/> </small> 
 
 <div style="margin-left: 1em;">
