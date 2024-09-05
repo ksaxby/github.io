@@ -7,7 +7,7 @@ author:
 <meta name="description" content="Overview of Giovanni van Empel's research.">
 
 ## Working Papers  
-<u>Provider responses to market entry under competing health technologies (Draft available upon request) </u> <br/>
+Provider responses to market entry under competing health technologies (Draft available upon request) <br/>
 <small> with Daniel Avdic, Nils Gutacker, Bo Lagerqvist, and Johan Vikström.<br/> <br/>   
 *Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021, Asian Workshop on Econometrics and Health Economics (2023, Manila), Econometrics Society Australasian Meeting (scheduled). <br/>
 <div style="margin-left: 1em;">
