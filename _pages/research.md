@@ -7,8 +7,8 @@ author:
 <meta name="description" content="Overview of Giovanni van Empel's research.">
 
 ## Working Papers  
-<u>Provider responses to market entry under competing health technologies</u> <br/>
-<small> with Daniel Avdic, Nils Gutacker, and Johan Vikström.<br/> <br/>   
+<u>Provider responses to market entry under competing health technologies (Draft available upon request) </u> <br/>
+<small> with Daniel Avdic, Nils Gutacker, Bo Lagerqvist, and Johan Vikström.<br/> <br/>   
 *Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021, Asian Workshop on Econometrics and Health Economics (2023, Manila), Econometrics Society Australasian Meeting (scheduled). <br/>
 <div style="margin-left: 1em;">
 <details>
@@ -20,7 +20,7 @@ author:
 </div> 
 <br/>
 
-[Radiating influence? Spillover effects among physicians](https://www.dropbox.com/scl/fi/vgnjgl85920ni8mpat9c7/JMP_Giovanni-van-Empel.pdf?rlkey=k3xcx1gd2pr4ec22ngt45g4kf&dl=0) <br/> 
+<u>Radiating influence? Spillover effects among physicians (Draft available upon request) <u> <br/> 
 <small> with Daniel Avdic, Umair Khalil, Johannes S. Kunz, Bo Lagerqvist, and Johan Vikström. <br/> <br/> 
 *Presentations:* ASHEcon 2023 (accepted), UK HESG 2023 (accepted), RES PhD Conference 2023 (accepted), Applied Young Economist Webinar, Econometrics Society of Australasian Meeting (Sydney), Labour Econometrics Workshop (Sydney), EuHEA PhD Conference (Bologna), European Workshop on Econometrics and Health Economics (Madrid), Research School of Economics, ANU (scheduled). <br/> </small> 
 <div style="margin-left: 1em;">
