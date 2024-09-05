@@ -9,7 +9,7 @@ author:
 ## Working Papers  
 <u>Provider responses to market entry under competing health technologies</u> <br/>
 <small> with Daniel Avdic, Nils Gutacker, and Johan Vikström.<br/> <br/>   
-*Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021, 4th Asian Workshop on Econometrics and Health Economics (scheduled). <br/>
+*Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021, Asian Workshop on Econometrics and Health Economics (2023, Manila), Econometrics Society Australasian Meeting (scheduled). <br/>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -20,9 +20,9 @@ author:
 </div> 
 <br/>
 
-[Radiating influence? Spillover effects among physicians](https://www.dropbox.com/scl/fi/vgnjgl85920ni8mpat9c7/JMP_Giovanni-van-Empel.pdf?rlkey=k3xcx1gd2pr4ec22ngt45g4kf&dl=0) (JOB MARKET PAPER)<br/> 
+[Radiating influence? Spillover effects among physicians](https://www.dropbox.com/scl/fi/vgnjgl85920ni8mpat9c7/JMP_Giovanni-van-Empel.pdf?rlkey=k3xcx1gd2pr4ec22ngt45g4kf&dl=0) <br/> 
 <small> with Daniel Avdic, Umair Khalil, Johannes S. Kunz, Bo Lagerqvist, and Johan Vikström. <br/> <br/> 
-*Presentations:* ASHEcon 2023 (accepted), UK HESG 2023 (accepted), RES PhD Conference 2023 (accepted), Applied Young Economist Webinar, Econometrics Society of Australasian Meeting (Sydney), Labour Econometrics Workshop (Sydney), EuHEA PhD Conference (Bologna), European Workshop on Econometrics and Health Economics (Madrid). <br/> </small> 
+*Presentations:* ASHEcon 2023 (accepted), UK HESG 2023 (accepted), RES PhD Conference 2023 (accepted), Applied Young Economist Webinar, Econometrics Society of Australasian Meeting (Sydney), Labour Econometrics Workshop (Sydney), EuHEA PhD Conference (Bologna), European Workshop on Econometrics and Health Economics (Madrid), Research School of Economics, ANU (scheduled). <br/> </small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -34,9 +34,18 @@ author:
 <br/>
 
 
-[Addressing Vaccine Hesitancy using Local Ambassadors: A Randomized Controlled Trial in Indonesia](https://docs.iza.org/dp15899.pdf)<br/>
+## Work In Progress
+Heat and Healthcare Delivery (with Michelle Escobar-Carias)<br/>
+<br/> 
+
+Child Labour Ban, Schooling, and Domestic Violence (with Adam Dzulkipli and Sara Hutchinson-Tovar)<br/>
+<br/>  
+  
+ 
+## Publications
+[Addressing Vaccine Hesitancy using Local Ambassadors: A Randomized Controlled Trial in Indonesia](https://www.sciencedirect.com/science/article/pii/S0014292124000126)<br/>
 <small> with Armand Sim, Asad Islam, Jahen Rezki, Gita Kusnadi, Michael Vlassopoulos, and Yves Zenou. <br/> <br/>   
-*IZA Discussion Paper 15899 - (Conditionally accepted) European Economic Review*  <br/>
+*European Economic Review, April 2024*  <br/>
 *Presentations:* CINCH-dggo Academy of Health Science (Essen). <br/> </small> 
 <div style="margin-left: 1em;">
 <details>
@@ -48,17 +57,6 @@ author:
 </div> 
 <br/>
 
-
-
-
-
-## Work In Progress
-Spillover effects of community-block grant : Evidence from Indonesia<br/>
-<small> Solo-authored project. <br/> 
-<br/>  
-  
- 
-## Publications
 [Does quality affect choice of family physician? Evidence from patients changing general practice without changing address](https://www.sciencedirect.com/science/article/pii/S0264999323002079) <br/>
 <small> with Hugh Gravelle and Rita Santos.<br/> 
 *Economic Modelling* 2023  </small>
